@@ -1,5 +1,5 @@
 # swiggy-parent
-1- Creating a normla Project   -DarchetypeArtifactId=maven-archetype-quickstart
+1- Creating a normal Project   -DarchetypeArtifactId=maven-archetype-quickstart
 
 ->  mvn archetype:generate -DgroupId=com.swiggy -DartifactId=swiggy-service -Dversion=1.0.0 -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4
 
